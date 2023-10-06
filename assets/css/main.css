@@ -1552,7 +1552,7 @@
 /* Basic */
 
 	body {
-		background: #fff;
+		background: #131313;
 	}
 
 	body, input, select, textarea {
@@ -1575,7 +1575,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #4acaa8 !important;
+			color: #4aa0ca !important;
 		}
 
 	strong, b {
@@ -1731,7 +1731,7 @@
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		color: #4aa0ca;
 		font-size: 3.5em;
 	}
 
@@ -1794,7 +1794,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #4acaa8;
+			border-color: #4aa0ca;
 		}
 
 	.select-wrapper {
@@ -1904,7 +1904,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #4acaa8;
+			border-color: #4aa0ca;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2098,7 +2098,7 @@
 				}
 
 				ul.feature-icons li:before {
-					background: #4acaa8;
+					background: #4aa0ca;
 					border-radius: 100%;
 					color: #ffffff;
 					display: block;
@@ -2385,7 +2385,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #4acaa8;
+			background-color: #4aa0ca;
 			color: #ffffff !important;
 		}
 
@@ -2420,7 +2420,7 @@
 /* Features */
 
 	.features article {
-		border-top: solid 3px #f4f4f4;
+		border-top: solid 3px #171717;
 		margin-bottom: 2.25em;
 		padding-top: 2.25em;
 	}
@@ -2467,7 +2467,7 @@
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #4acaa8;
+		background: #4aa0ca;
 		color: #d1f1e9;
 		height: 100%;
 		overflow-y: auto;
@@ -2556,7 +2556,7 @@
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5ccfb0;
+					border-top: solid 2px #5ac;
 					display: block;
 					padding: 0;
 				}
@@ -2574,8 +2574,8 @@
 					}
 
 						#header > nav ul li a.active {
-							background: #fff;
-							color: #4acaa8 !important;
+							background: #131313;
+							color: #4aa0ca !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -2585,14 +2585,14 @@
 /* Wrapper */
 
 	#wrapper {
-		background: #fff;
+		background: #131313;
 		padding-right: 23em;
 	}
 
 /* Main */
 
 	#main > section {
-		border-top: solid 6px #f4f4f4;
+		border-top: solid 6px #171717;
 	}
 
 		#main > section > .container {
@@ -2606,7 +2606,7 @@
 /* One */
 
 	#one:before {
-		background-image: url("../../images/nyc_skyline.jpg");
+		background-image: url("../../images/banner_image.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -2619,7 +2619,7 @@
 /* Footer */
 
 	#footer {
-		background: #fafafa;
+		background: #131313;
 		border-top: 0;
 		color: #c0c0c0;
 		overflow: hidden;
@@ -2854,7 +2854,7 @@
 					}
 
 					#titleBar .toggle:before {
-						background: #4acaa8;
+						background: #4aa0ca;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
